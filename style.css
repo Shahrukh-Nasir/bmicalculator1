@@ -1,0 +1,19 @@
+*{
+    padding: 1px;
+    margin: 2px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background: red;
+    border-style: double;
+    border-radius: 10cm;
+}
